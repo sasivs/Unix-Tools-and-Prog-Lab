@@ -1,0 +1,8 @@
+A common occurence in text editing is to replace one word or phase by another.
+To locate instances of particular sets of characters use the following commands.
+/string dearch forward for occurence of the string given in the text
+?string search key backward for occurence of search string 
+n move to nextoccurence of the search string
+N move to next occurence of seaarch string in opposite direction
+
+

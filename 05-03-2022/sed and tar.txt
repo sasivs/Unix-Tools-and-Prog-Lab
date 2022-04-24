@@ -1,0 +1,26 @@
+1. Questions on SED command:
+	a)Write a sed command that print lines numbersof lines beginning with “O”
+	b)Write a sed command that delete digits in the given input file.
+	c)Write a sed command that delete lines that contain both BEGIN and END
+	d)Write a sed command that delete lines that contain BEGIN but not END
+	e)Write a sed command that deletes the first character in each line in a file
+	f)Write a sed command that deletes the last character in each line in a file
+	g)Write a sed command to delete character before last character in each line in a file
+	h)Write a sed command that swaps the first and second character in each line in the file
+	i)Write a sed command that swaps the first and second word in each line in the file
+
+Sample Text File:
+
+Oracle expects to ship the product in September
+This line displays a number 234
+BEGIN {  print "The number of times tecmint.com appears in the file is:" ; }END {  printf "%s\n",  counter  ; }
+BEGIN {  print "The number of times tecmint.com appears in the file is:" ; }
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. 
+
+2. Questions on TAR command:
+	a) Create three sample directories with some files to use with the tar command.
+	b) Write a tar command to backup all three directories into single tar file.
+	c) Write a tar command to verify that the files are on the tape and in a single tar file.
+	d) Write a tar command to backup the sample directories into four different files.
+	e) Verify the number of tar files using the tar command. 
+	f) Backup a directory using cpio. 

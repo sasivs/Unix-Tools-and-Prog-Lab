@@ -1,0 +1,10 @@
+ip show addr
+ls
+ps
+ls -a
+ls -lut
+ls | wc -c
+uname
+whoami
+echo $PATH
+pwd

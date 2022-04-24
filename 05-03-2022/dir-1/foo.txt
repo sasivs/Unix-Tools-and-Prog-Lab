@@ -1,0 +1,5 @@
+Oracle expects to ship the product in September
+This line displays a number 234
+BEGIN {  print "The number of times tecmint.com appears in the file is:" ; }END {  printf "%s\n",  counter  ; }
+BEGIN {  print "The number of times tecmint.com appears in the file is:" ; }
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.

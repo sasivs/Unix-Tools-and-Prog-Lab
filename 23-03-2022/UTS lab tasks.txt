@@ -1,0 +1,15 @@
+1. Package management and Installation in redhat versions of linux(eg. fedora, redhat, centos etc) using rpm(Red Hat Package Manager)
+	https://www.tecmint.com/20-practical-examples-of-rpm-commands-in-linux/
+	
+2. Package management and Installation in debian versions of linux(eg. ubunut, debian, linux mint etc) using apt(Advanced Packaging Tool) 
+	https://itsfoss.com/apt-command-guide/
+	https://ubuntu.com/server/docs/package-management
+	
+3. Version controlling using git,cvs(control version system)
+	https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
+	https://www.cs.uky.edu/~paulp/CS499S10/CVS/cvs.html
+	
+4. Understanding and debugging coredump using gdb
+	https://www.cse.unsw.edu.au/~learn/debugging/modules/gdb_coredumps/
+	https://betterexplained.com/articles/debugging-with-gdb/
+

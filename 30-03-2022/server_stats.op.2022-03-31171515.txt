@@ -1,0 +1,20 @@
+Welcome to Ubuntu 20.04.3 LTS (GNU/Linux 5.11.0-43-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+1 device has a firmware upgrade available.
+Run `fwupdmgr get-upgrades` for more information.
+
+
+210 updates can be applied immediately.
+165 of these updates are standard security updates.
+To see these additional updates run: apt list --upgradable
+
+Your Hardware Enablement Stack (HWE) is supported until April 2025.
+Generated on, Thu Mar 31 17:15:15 IST 2022
+Hostname and OS
+ai-HP-ProDesk-600-G4-MT
+Linux
+

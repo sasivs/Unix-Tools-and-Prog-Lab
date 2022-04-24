@@ -1,0 +1,18 @@
+total 4
+-rwx------ 1 sasi_bhushan sasi_bhushan 872 Feb  3 15:28 db.txt
+-rwx--x--x 1 sasi_bhushan sasi_bhushan 232 Feb  3 15:19 foo.txt
+printf fprintf
+printf fprintf
+printf fprintf
+fprintf printf fprintf
+printf
+printf
+##
+/*
+//
+**
+}
+ab aab abab azab aa bbaaa
+bbbb
+ccc
+ddd

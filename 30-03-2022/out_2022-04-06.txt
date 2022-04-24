@@ -1,0 +1,304 @@
+411974
+420140
+420155_Labext\
+5
+anaconda3
+apriori.java
+a.py
+archive.tar
+automation
+Circulardoubly$Node.class
+Circulardoubly.class
+Circularlinked.java
+command assignment
+Demo.class
+Demo.java
+Desktop
+Documents
+Doublylinked$Node.class
+Doublylinked.class
+Downloads
+eclipse
+eclipse-workspace
+f1.sh
+f2.sh
+f7.sh
+file1
+file1.sh
+file1.sh.save
+file1.txt
+file2.txt
+file.tar
+Frame1.class
+Frame2.class
+Hash.class
+hash.java
+Hash.java
+hello
+hello.java
+InfixToPostfix
+InfixToPostfix.class
+infixtopostfix.java
+Infixtopostfix.java
+InfixToPostfix.java
+InToPost.class
+Itop.class
+Itop.java
+java-database-gui
+javafile
+Music
+mydir
+myproject
+palindrome.c
+Person.class
+Pictures
+Public
+rpmbuild
+Screenshot from 2022-01-07 11-43-13.png
+Screenshot from 2022-01-07 11-44-07.png
+siddartha
+sid.txt
+Singly.java
+Singlylinked$Node.class
+Singlylinked.class
+snap
+stack.class
+stat.txt
+student.sql
+Templates
+test
+thread.c
+thread.tar
+uml_diagrams
+umls
+unix
+Untitled.ipynb
+Videos
+wekafiles
+winehq.key
+    PID TTY          TIME CMD
+   1817 ?        00:00:00 systemd
+   1818 ?        00:00:00 (sd-pam)
+   1823 ?        00:00:00 pulseaudio
+   1825 ?        00:00:00 tracker-miner-f
+   1829 ?        00:00:00 dbus-daemon
+   1844 ?        00:00:00 gvfsd
+   1849 ?        00:00:00 gvfsd-fuse
+   1857 ?        00:00:00 gvfs-udisks2-vo
+   1862 ?        00:00:00 gvfs-gphoto2-vo
+   1866 ?        00:00:00 gvfs-mtp-volume
+   1870 ?        00:00:00 gvfs-goa-volume
+   1874 ?        00:00:00 goa-daemon
+   1882 ?        00:00:00 goa-identity-se
+   1888 ?        00:00:00 gvfs-afc-volume
+   1900 ?        00:00:00 gnome-keyring-d
+   2012 ?        00:00:00 ssh-agent
+   2047 ?        00:00:00 at-spi-bus-laun
+   2052 ?        00:00:00 dbus-daemon
+   2077 ?        00:00:00 gnome-session-c
+   2084 ?        00:00:00 gnome-session-b
+   2098 ?        00:00:52 gnome-shell
+   2142 ?        00:00:00 ibus-daemon
+   2146 ?        00:00:00 ibus-dconf
+   2147 ?        00:00:00 ibus-extension-
+   2151 ?        00:00:00 ibus-x11
+   2154 ?        00:00:00 ibus-portal
+   2163 ?        00:00:00 gnome-shell-cal
+   2165 ?        00:00:00 at-spi2-registr
+   2171 ?        00:00:00 xdg-permission-
+   2182 ?        00:00:00 dconf-service
+   2190 ?        00:00:00 evolution-sourc
+   2197 ?        00:00:00 gjs
+   2212 ?        00:00:00 gsd-a11y-settin
+   2213 ?        00:00:00 gsd-color
+   2214 ?        00:00:00 gsd-datetime
+   2215 ?        00:00:00 gsd-housekeepin
+   2219 ?        00:00:00 gsd-keyboard
+   2221 ?        00:00:00 gsd-media-keys
+   2223 ?        00:00:00 gsd-power
+   2226 ?        00:00:00 gsd-print-notif
+   2228 ?        00:00:00 gsd-rfkill
+   2232 ?        00:00:00 gsd-screensaver
+   2233 ?        00:00:00 gsd-sharing
+   2234 ?        00:00:00 gsd-smartcard
+   2236 ?        00:00:00 gsd-sound
+   2240 ?        00:00:00 gsd-usb-protect
+   2244 ?        00:00:00 gsd-wacom
+   2246 ?        00:00:00 gsd-wwan
+   2248 ?        00:00:00 gsd-xsettings
+   2265 ?        00:00:00 gsd-disk-utilit
+   2279 ?        00:00:00 evolution-alarm
+   2308 ?        00:00:00 ibus-engine-sim
+   2329 ?        00:00:00 gsd-printer
+   2350 ?        00:00:00 gvfsd-trash
+   2374 ?        00:00:00 evolution-calen
+   2377 ?        00:00:04 snap-store
+   2403 ?        00:00:00 xdg-document-po
+   2456 ?        00:00:00 evolution-addre
+   2541 ?        00:00:00 xdg-desktop-por
+   2545 ?        00:00:00 xdg-desktop-por
+   3102 ?        00:00:02 gnome-terminal-
+   3149 ?        00:00:00 gvfsd-metadata
+   3150 ?        00:00:00 update-notifier
+   3453 ?        00:00:00 gvfsd-network
+   3468 ?        00:00:00 gvfsd-dnssd
+   5061 ?        00:00:00 sshd
+   5359 ?        00:00:14 gnome-control-c
+   5798 ?        00:00:07 nautilus
+   5813 ?        00:00:00 gvfsd-recent
+   7349 ?        00:00:00 sshd
+   8389 ?        00:00:00 sshd
+   8390 ?        00:00:00 ps
+/home/student
+411974
+420140
+420155_Labext\
+5
+anaconda3
+apriori.java
+a.py
+archive.tar
+automation
+Circulardoubly$Node.class
+Circulardoubly.class
+Circularlinked.java
+command assignment
+Demo.class
+Demo.java
+Desktop
+Documents
+Doublylinked$Node.class
+Doublylinked.class
+Downloads
+eclipse
+eclipse-workspace
+f1.sh
+f2.sh
+f7.sh
+file1
+file1.sh
+file1.sh.save
+file1.txt
+file2.txt
+file.tar
+Frame1.class
+Frame2.class
+Hash.class
+hash.java
+Hash.java
+hello
+hello.java
+InfixToPostfix
+InfixToPostfix.class
+infixtopostfix.java
+Infixtopostfix.java
+InfixToPostfix.java
+InToPost.class
+Itop.class
+Itop.java
+java-database-gui
+javafile
+Music
+mydir
+myproject
+palindrome.c
+Person.class
+Pictures
+Public
+rpmbuild
+Screenshot from 2022-01-07 11-43-13.png
+Screenshot from 2022-01-07 11-44-07.png
+siddartha
+sid.txt
+Singly.java
+Singlylinked$Node.class
+Singlylinked.class
+snap
+stack.class
+stat.txt
+student.sql
+Templates
+test
+thread.c
+thread.tar
+uml_diagrams
+umls
+unix
+Untitled.ipynb
+Videos
+wekafiles
+winehq.key
+    PID TTY          TIME CMD
+   1817 ?        00:00:00 systemd
+   1818 ?        00:00:00 (sd-pam)
+   1823 ?        00:00:00 pulseaudio
+   1825 ?        00:00:00 tracker-miner-f
+   1829 ?        00:00:00 dbus-daemon
+   1844 ?        00:00:00 gvfsd
+   1849 ?        00:00:00 gvfsd-fuse
+   1857 ?        00:00:00 gvfs-udisks2-vo
+   1862 ?        00:00:00 gvfs-gphoto2-vo
+   1866 ?        00:00:00 gvfs-mtp-volume
+   1870 ?        00:00:00 gvfs-goa-volume
+   1874 ?        00:00:00 goa-daemon
+   1882 ?        00:00:00 goa-identity-se
+   1888 ?        00:00:00 gvfs-afc-volume
+   1900 ?        00:00:00 gnome-keyring-d
+   2012 ?        00:00:00 ssh-agent
+   2047 ?        00:00:00 at-spi-bus-laun
+   2052 ?        00:00:00 dbus-daemon
+   2077 ?        00:00:00 gnome-session-c
+   2084 ?        00:00:00 gnome-session-b
+   2098 ?        00:00:53 gnome-shell
+   2142 ?        00:00:00 ibus-daemon
+   2146 ?        00:00:00 ibus-dconf
+   2147 ?        00:00:00 ibus-extension-
+   2151 ?        00:00:00 ibus-x11
+   2154 ?        00:00:00 ibus-portal
+   2163 ?        00:00:00 gnome-shell-cal
+   2165 ?        00:00:00 at-spi2-registr
+   2171 ?        00:00:00 xdg-permission-
+   2182 ?        00:00:00 dconf-service
+   2190 ?        00:00:00 evolution-sourc
+   2197 ?        00:00:00 gjs
+   2212 ?        00:00:00 gsd-a11y-settin
+   2213 ?        00:00:00 gsd-color
+   2214 ?        00:00:00 gsd-datetime
+   2215 ?        00:00:00 gsd-housekeepin
+   2219 ?        00:00:00 gsd-keyboard
+   2221 ?        00:00:00 gsd-media-keys
+   2223 ?        00:00:00 gsd-power
+   2226 ?        00:00:00 gsd-print-notif
+   2228 ?        00:00:00 gsd-rfkill
+   2232 ?        00:00:00 gsd-screensaver
+   2233 ?        00:00:01 gsd-sharing
+   2234 ?        00:00:00 gsd-smartcard
+   2236 ?        00:00:00 gsd-sound
+   2240 ?        00:00:00 gsd-usb-protect
+   2244 ?        00:00:00 gsd-wacom
+   2246 ?        00:00:00 gsd-wwan
+   2248 ?        00:00:00 gsd-xsettings
+   2265 ?        00:00:00 gsd-disk-utilit
+   2279 ?        00:00:00 evolution-alarm
+   2308 ?        00:00:00 ibus-engine-sim
+   2329 ?        00:00:00 gsd-printer
+   2350 ?        00:00:00 gvfsd-trash
+   2374 ?        00:00:00 evolution-calen
+   2377 ?        00:00:04 snap-store
+   2403 ?        00:00:00 xdg-document-po
+   2456 ?        00:00:00 evolution-addre
+   2541 ?        00:00:00 xdg-desktop-por
+   2545 ?        00:00:00 xdg-desktop-por
+   3102 ?        00:00:02 gnome-terminal-
+   3149 ?        00:00:00 gvfsd-metadata
+   3150 ?        00:00:00 update-notifier
+   3453 ?        00:00:00 gvfsd-network
+   3468 ?        00:00:00 gvfsd-dnssd
+   5061 ?        00:00:00 sshd
+   5359 ?        00:00:14 gnome-control-c
+   5798 ?        00:00:07 nautilus
+   5813 ?        00:00:00 gvfsd-recent
+   7349 ?        00:00:00 sshd
+   8604 ?        00:00:00 sshd
+   8605 ?        00:00:00 ps
+/home/student

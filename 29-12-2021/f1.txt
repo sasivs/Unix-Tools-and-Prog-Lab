@@ -1,0 +1,9 @@
+Wildcards are useful in many ways for a GNU/Linux system and for various other uses. Commands can use wildcards to perform actions on more than one file at a time, or to find part of a phrase in a text file. There are many uses for wildcards, there are two different major ways that wildcards are used, they are globbing patterns/standard wildcards that are often used by the shell. The alternative is regular expressions, popular with many other commands and popular for use with text searching and manipulation.
+
+Tip: If you have a file with wildcard expressions in it then you can use single quotes to stop bash expanding them or use backslashes (escape characters), or both.
+
+For example if you wanted to create a file called 'fo*' (fo and asterisk) you would have to do it like this (note that you shouldn't create files with names like this, this is just an example):
+
+  touch 'fo*' 
+  
+Note that parts of both subsections on wildcards are based (at least in part) off the grep manual and info pages. Please see the Bibliography for further information.
